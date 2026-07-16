@@ -1,0 +1,41 @@
+{
+  "updatedAt": "2026-07-16T19:18:08.071Z",
+  "framework": "Next.js",
+  "dbModels": [],
+  "apiRoutes": [],
+  "pages": [
+    "app/page.tsx"
+  ],
+  "components": [
+    "app/layout.tsx",
+    "components/face-detection-page.tsx",
+    "components/ui/badge.tsx",
+    "components/ui/button.tsx",
+    "components/ui/card.tsx",
+    "components/ui/spinner.tsx",
+    "components/ui/toast.tsx"
+  ],
+  "dependencies": [
+    "@types/node",
+    "@types/react",
+    "@types/react-dom",
+    "autoprefixer",
+    "clsx",
+    "framer-motion",
+    "lucide-react",
+    "next",
+    "postcss",
+    "react",
+    "react-dom",
+    "tailwind-merge",
+    "tailwindcss",
+    "typescript"
+  ],
+  "fileCount": 18,
+  "runtime": {
+    "status": "ONLINE",
+    "previewUrl": "https://3000-ifl7b5aqs12scem1llzs7.e2b.app",
+    "sandboxId": "ifl7b5aqs12scem1llzs7",
+    "lastUsedAt": "2026-07-16T19:17:54.956Z"
+  }
+}
