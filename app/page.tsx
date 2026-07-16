@@ -6,5 +6,9 @@ const FaceDetectionPage = dynamic(
 );
 
 export default function Home() {
-  return <FaceDetectionPage />;
+  return (
+    <main className="min-h-screen bg-background">
+      <FaceDetectionPage />
+    </main>
+  );
 }
